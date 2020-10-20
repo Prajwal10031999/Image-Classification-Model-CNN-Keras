@@ -1,4 +1,4 @@
-# Multi-Label-Image-Classification-Model-Keras
+# Image-Classification-Model-Keras
 
 You can download the data set from here 
 https://drive.google.com/file/d/1iQV5kKF_KGZL9ALx9MMXk_Lg7PklBLCE/view?usp=sharing
